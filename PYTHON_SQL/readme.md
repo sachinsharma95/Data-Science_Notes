@@ -1,4 +1,7 @@
-In this module we will learn that how mysql is connected with python 
+MYSQL CONNECTOR WITH PYTHON 
+
+In this module we will learn that how mysql is connected with python
+
 mysql.connector
 mysql.execute method
 mysql.cursor() method
